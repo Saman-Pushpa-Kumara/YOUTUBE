@@ -1,37 +1,13 @@
 {
-"version":"5",
- "title":"Update..!",
- "description":"Youtube X v.5 අනුවාදයක් පැමිණ ඇත. එය Download කිරීමට Visit තුලට පිවිසෙන්න.
-ස්තූති.
-
-Youtube X v.5 is available. Visit Visit to download it.
-Thanks.
-
-What's new:
-
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 Google Gemini
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 Video Downloader
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 Shorts Downloade
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 Thumbnails Downloader
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 Captions Downloader
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 Ads Blocker
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 Minimize Video
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 Picture in Picture Mode
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 Shows Number of Dislikes
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 Background Audio Player
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 Custom Heart feature to save videos without logging into your account
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥Enable / disable media codecs
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 Skip Sponsers
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 Force Zoom
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 Hide Shorts
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 APK size under 1MB
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 Minimal
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 Almost 0 Internal Dependencies
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 Auto Updation of App
-🦋⃟ᴠͥɪͣᴘͫ•𝆺𝅥 Added a new feature of downloading the video directly by sharing the link to YTX
-
-
-",
- "download":"https://www.facebook.com/100063592253175/posts/pfbid0224r1HQqah3gL5TR7B5kjd6LUAYfg2qf4V7ZnFY5R49TB6uzg6XMZ5UZJHbcyE8h5l/?app=fbl"
- 
+  "enable": true,
+  "title": "Login Access",
+  "d1": "Welcome!",
+  "d2": "Please verify to proceed.",
+  "d3": "Secure Access Only",
+  "password": "8888",
+  "highlight": "Limited Time Access",
+  "btn_login": "Login",
+  "btn_personal": "Personal",
+  "edit_hint": "Enter password",
+  "personal_link": "https://www.facebook.com/100063592253175/posts/pfbid02X19oRCRziAmhhw6GrhqM57KYuVFsJYrt3oGn7aDn886emsfby4oV3CWMF3tBh4Agl/?app=fbl"
 }

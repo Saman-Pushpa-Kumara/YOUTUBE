@@ -4,5 +4,5 @@
   "content_url": "https://devmsg.fun/instapro.html",
   "positive_btn": "Download Now",
   "link": "https://www.instmod.com/2025/07/instapro-v1277-latest-version.html?m=1",
-  "cancelable": true
+  "cancelable": false
 }
